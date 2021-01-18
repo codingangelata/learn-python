@@ -1,2 +1,5 @@
 # learn-python
-Learning Python
+
+Learning Python3
+
+Concepts, Examples and Practice
