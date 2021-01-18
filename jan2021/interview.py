@@ -1,7 +1,7 @@
 
 print ("Hello Dear, Welcome to AAS clinic \n Station X, Moon")
 
-print ("Lets answer some basic questions for an appointment")
+print ("Lets answer some questions for an appointment")
 
 name = input("Whats your name : ")
 
