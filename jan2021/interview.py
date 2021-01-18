@@ -1,20 +1,20 @@
 
-print "Hello Dear, Welcome to AAS clinic \n Station X, Moon"
+print ("Hello Dear, Welcome to AAS clinic \n Station X, Moon")
 
-print "Lets answer some basic questions for an appointment"
+print ("Lets answer some basic questions for an appointment")
 
-name = raw_input("Whats your name : ")
+name = input("Whats your name : ")
 
-print "Thank you"
+print ("Thank you")
 
-place = raw_input("where do you live ? ")
+place = input("where do you live ? ")
 
-print "Great"
+print ("Great")
 
 if place == 'earth' :
-	print "Thank you "+name+". we dont offer service at "+place +" or even on any earth places yet."
+	print ("Thank you "+name+". we dont offer service at "+place +" or even on any earth places yet.")
 else :
-	print "Thank you "+name+". Nice to know that you live at "+place +". How May I help you?"
+	print ("Thank you "+name+". Nice to know that you live at "+place +". How May I help you?")
 
 
 
